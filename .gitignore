@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+calculator_env/
+.vscode/
+.vscode
+learn_env
+learn_env/
+learn_env
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local vector store (FAISS legacy)
+vectors/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Pinecone / model cache
+.cache/
+*.pkl
