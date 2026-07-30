@@ -9,6 +9,8 @@ learn_env/
 learn_env
 # Environment variables
 .env
+env
+.env/
 
 # Python cache
 __pycache__/
